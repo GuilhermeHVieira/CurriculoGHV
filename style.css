@@ -1,0 +1,17 @@
+body{
+    background-color: gray;
+    text-align: center;
+  }
+  img{
+    border: 8px solid;
+  }
+  img:hover{
+    zoom:150%;
+  }
+  .c1{
+    color: lightskyblue;
+  }
+  img{
+    width: 150px;
+    height: 230px;
+  }
